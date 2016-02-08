@@ -1,0 +1,19 @@
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\bin\Release\RemoteController.exe.config
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\bin\Release\RemoteController.exe
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\bin\Release\RemoteController.pdb
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\bin\Release\MetroFramework.Design.dll
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\bin\Release\MetroFramework.dll
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\bin\Release\MetroFramework.Fonts.dll
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Release\RemoteController.csprojResolveAssemblyReference.cache
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Release\RemoteController.Form1.resources
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Release\RemoteController.InputIpAddress.resources
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Release\RemoteController.Properties.Resources.resources
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Release\RemoteController.csproj.GenerateResource.Cache
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Release\RemoteController.exe
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Release\RemoteController.pdb
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\bin\Release\RemoteController.exe.config
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Release\RemoteController.exe
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Release\RemoteController.pdb
+C:\Users\상준\Documents\2015년1학기\C#-오세만\C#설계과제\Reomte_part\RemoteController\bin\Release\RemoteController.exe.config
+C:\Users\상준\Documents\2015년1학기\C#-오세만\C#설계과제\Reomte_part\RemoteController\obj\Release\RemoteController.exe
+C:\Users\상준\Documents\2015년1학기\C#-오세만\C#설계과제\Reomte_part\RemoteController\obj\Release\RemoteController.pdb

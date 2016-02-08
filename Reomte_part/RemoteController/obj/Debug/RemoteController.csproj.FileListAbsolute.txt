@@ -1,0 +1,29 @@
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\bin\Debug\RemoteController.exe.config
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\bin\Debug\RemoteController.exe
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\bin\Debug\RemoteController.pdb
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\bin\Debug\MetroFramework.Design.dll
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\bin\Debug\MetroFramework.dll
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.csprojResolveAssemblyReference.cache
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.Form1.resources
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.InputIpAddress.resources
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.Properties.Resources.resources
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.csproj.GenerateResource.Cache
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.exe
+C:\Users\SJP\Documents\Visual Studio 2013\Projects\RemoteController\RemoteController\obj\Debug\RemoteController.pdb
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\bin\Debug\RemoteController.exe.config
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Debug\RemoteController.exe
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Debug\RemoteController.pdb
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\bin\Debug\RemoteController.exe
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\bin\Debug\RemoteController.pdb
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\bin\Debug\MetroFramework.Design.dll
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\bin\Debug\MetroFramework.dll
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Debug\RemoteController.csprojResolveAssemblyReference.cache
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Debug\RemoteController.Form1.resources
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Debug\RemoteController.InputIpAddress.resources
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Debug\RemoteController.Properties.Resources.resources
+C:\Users\SangjunPark\Desktop\Reomte_part\RemoteController\obj\Debug\RemoteController.csproj.GenerateResource.Cache
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\bin\Debug\RemoteController.exe.config
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Debug\RemoteController.exe
+D:\객체지향 윈도우즈 프로그래밍 팀프로젝트\Reomte_part\RemoteController\obj\Debug\RemoteController.pdb
